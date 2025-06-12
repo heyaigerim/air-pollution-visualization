@@ -1,6 +1,6 @@
 # 🌫️ Air Pollution is Not "Out There" — It’s Right Under Your Nose
 
-This project explores the link between **air pollution, asthma rates**, and **environmental inequality** across California. Built for INFO 247 at UC Berkeley, it combines interactive web tools, visual storytelling, and public data to make environmental health data **personal, accessible, and actionable**.
+This project explores the link between **air pollution, asthma rates**, and **environmental inequality** across California. Built for INFO 247 Information Visualization and Presentation at UC Berkeley, it combines interactive web tools, visual storytelling, and public data to make environmental health data personal, accessible, and actionable.
 
 ## 🔗 Demo Links
 
@@ -55,6 +55,10 @@ This project explores the link between **air pollution, asthma rates**, and **en
 - **Aigerim Kurmanbekova** – pollutant visualizations, data research and cleaning
 - **Amber Jiang** – site design, case study visualizations
 - **Monica Paz Parra** – Tableau visuals, ZIP code feature
+
+## Professor 
+- **Marti Hearst* 
+- [Course Website](https://courses.ischool.berkeley.edu/i247/s25/)
 
 ---
 

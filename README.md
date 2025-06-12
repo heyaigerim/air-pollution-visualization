@@ -57,7 +57,7 @@ This project explores the link between **air pollution, asthma rates**, and **en
 - **Monica Paz Parra** – Tableau visuals, ZIP code feature
 
 ## Professor 
-- **Marti Hearst* 
+- **Marti Hearst** 
 - [Course Website](https://courses.ischool.berkeley.edu/i247/s25/)
 
 ---

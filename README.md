@@ -1,23 +1,23 @@
-# 🌫️ Air Pollution is Not "Out There" — It’s Right Under Your Nose
+# Air Pollution is Not "Out There" — It’s Right Under Your Nose
 
 This project explores the link between **air pollution, asthma rates**, and **environmental inequality** across California. Built for INFO 247 Information Visualization and Presentation at UC Berkeley, it combines interactive web tools, visual storytelling, and public data to make environmental health data personal, accessible, and actionable.
 
-## 🔗 Demo Links
+## Demo Links
 
-- 🔗 **Interactive Website**: [Webflow Site](https://amber-jiang.webflow.io/unlisted-air-asthma)
-- 📊 **D3 / Observable Animations**: [Observable Notebook](https://observablehq.com/d/18ed024b41ad6f0c)
-- 📈 **Tableau Visualizations**: [Drive Folder (Tableau)](https://drive.google.com/drive/u/0/folders/1J0bAsxAgewaHgumFo866t4FgwsBDkmF_)
-- 📝 **Final Report (PDF)**: [Final Project Writeup](https://drive.google.com/file/d/1ZuovHqVgi0QnRcLoqUE8_jtpXxuMv08p/view?usp=drive_link)
+- **Interactive Website**: [Webflow Site](https://amber-jiang.webflow.io/unlisted-air-asthma)
+- **D3 / Observable Animations**: [Observable Notebook](https://observablehq.com/d/18ed024b41ad6f0c)
+- **Tableau Visualizations**: [Drive Folder (Tableau)](https://drive.google.com/drive/u/0/folders/1J0bAsxAgewaHgumFo866t4FgwsBDkmF_)
+- **Final Report (PDF)**: [Final Project Writeup](https://drive.google.com/file/d/1ZuovHqVgi0QnRcLoqUE8_jtpXxuMv08p/view?usp=drive_link)
 
 ## Project Overview
 
 - **Goal**: Help Californians understand the invisible health risks around them using data-driven storytelling.
 - **Core Features**:
-  - Real-time **AQI ZIP code lookup tool**
-  - Interactive **animated visualizations** of PM2.5 and NO₂
+  - Real-time AQI ZIP code lookup tool
+  - Interactive animated visualizations of PM2.5 and NO₂
   - Choropleth maps showing pollution and asthma by county
-  - A deep-dive into **socioeconomic and racial disparities** in pollution exposure
-  - A **case study** of the Inland Empire
+  - A deep-dive into socioeconomic and racial disparities in pollution exposure
+  - A case study of the Inland Empire
 
 ## Tools Used
 
@@ -59,7 +59,3 @@ This project explores the link between **air pollution, asthma rates**, and **en
 ## Professor 
 - **Marti Hearst** 
 - [Course Website](https://courses.ischool.berkeley.edu/i247/s25/)
-
----
-
-> Built with curiosity, empathy, and code 💙
